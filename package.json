@@ -1,0 +1,24 @@
+{
+  "name": "world_wise_prod_data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bhupender2/world_wise_prod_data.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bhupender2/world_wise_prod_data/issues"
+  },
+  "homepage": "https://github.com/Bhupender2/world_wise_prod_data#readme",
+  "keywords": [],
+  "dependencies": {
+    "json-server": "^1.0.0-beta.0"
+  }
+}
